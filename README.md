@@ -1,4 +1,4 @@
-### Hi, I'm Arthur Mrazano 👋, You Can Call Me Marzano
+### Hi, I'm Marzano 👋
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvWHbHDslJMBVKHltSBfkZgKmJQcZhnvqJTgdVqcJgPfjFSRPgSfJBpDDVnPrHqpDcDnB)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
