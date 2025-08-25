@@ -16,43 +16,53 @@
 
 ## 🧰 Tech stack 🧰
 
-### Linguagens, Bibliotecas e Frameworks
+### 🚀 Linguagens e Frameworks
 
-<img src="imgs/java(1).svg" width="45">
-<img src="imgs/javascript.svg" width="45">
-<img src="imgs/typescript.svg" width="45">
-<img src="imgs/React_light_dark/React_dark.svg" width="47">
-<img src="imgs/spring.svg" width="45">
-<img src="imgs/csharp.svg" width="45">
-<img src="imgs/html5.svg" width="45">
-<img src="imgs/css_old.svg" width="50">
-<img src="imgs/Markdown_light_dark/Markdown_dark.svg" width="60">
-<img src="imgs/figma.svg" width="30">
+<div align="center">
+  <img src="imgs/java(1).svg" width="45" style="margin: 10px;">
+  <img src="imgs/javascript.svg" width="45" style="margin: 10px;">
+  <img src="imgs/typescript.svg" width="45" style="margin: 10px;">
+  <img src="imgs/React_light_dark/React_dark.svg" width="47" style="margin: 10px;">
+  <img src="imgs/spring.svg" width="45" style="margin: 10px;">
+  <img src="imgs/csharp.svg" width="45" style="margin: 10px;">
+  <img src="imgs/html5.svg" width="45" style="margin: 10px;">
+  <img src="imgs/css_old.svg" width="50" style="margin: 10px;">
+  <img src="imgs/Markdown_light_dark/Markdown_dark.svg" width="60" style="margin: 10px;">
+</div>
 
+---
 
-### Banco de Dados, CI e Testes
+### 🛠 Banco de Dados, CI e Testes
 
-<img src="imgs/mysql.svg" width="50">
-<img src="imgs/mongodb.svg" width="23">
-<img src="imgs/postgresql.svg" width="45">
-<img src="imgs/redis.svg" width="45">
-<img src="imgs/docker.svg" width="45">
-<img src="imgs/githubactions.svg" width="45">
-<img src="imgs/jenkins.svg" width="45">
-<img src="imgs/jest.svg" width="40">
-<img src="imgs/cypress.svg" width="90">
+<div align="center">
+  <img src="imgs/mysql.svg" width="50" style="margin: 10px;">
+  <img src="imgs/mongodb.svg" width="23" style="margin: 10px;">
+  <img src="imgs/postgresql.svg" width="45" style="margin: 10px;">
+  <img src="imgs/redis.svg" width="45" style="margin: 10px;">
+  <img src="imgs/docker.svg" width="45" style="margin: 10px;">
+  <img src="imgs/githubactions.svg" width="45" style="margin: 10px;">
+  <img src="imgs/jenkins.svg" width="45" style="margin: 10px;">
+  <img src="imgs/jest.svg" width="40" style="margin: 10px;">
+  <img src="imgs/cypress.svg" width="90" style="margin: 10px;">
+</div>
 
-### Outras Tecnologias
+---
 
-<img src="imgs/dotnet.svg" width="60">
-<img src="imgs/apachekafka.svg" width="45">
-<img src="imgs/postman.svg" width="45">
-<img src="imgs/npm.svg" width="45">
-<img src="imgs/nodejs.svg" width="45">
-<img src="imgs/Unity_light_dark/Unity_dark.svg" width="45">
-<img src="imgs/vscode.svg" width="45">
-<img src="imgs/swagger.svg" width="45">
-<img src="imgs/GitHub_light_dark/GitHub_dark.svg" width="45">
+### ⚡ Outras Tecnologias
+
+<div align="center">
+  <img src="imgs/dotnet.svg" width="60" style="margin: 10px;">
+  <img src="imgs/apachekafka.svg" width="45" style="margin: 10px;">
+  <img src="imgs/postman.svg" width="45" style="margin: 10px;">
+  <img src="imgs/npm.svg" width="45" style="margin: 10px;">
+  <img src="imgs/nodejs.svg" width="45" style="margin: 10px;">
+  <img src="imgs/Unity_light_dark/Unity_dark.svg" width="45" style="margin: 10px;">
+  <img src="imgs/vscode.svg" width="45" style="margin: 10px;">
+  <img src="imgs/swagger.svg" width="45" style="margin: 10px;">
+  <img src="imgs/GitHub_light_dark/GitHub_dark.svg" width="45" style="margin: 10px;">
+  <img src="imgs/figma.svg" width="30" style="margin: 10px;">
+</div>
+
 
 ### Artigos
 
