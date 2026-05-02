@@ -93,3 +93,5 @@
 - Objetivo: ser um **exército de um homem só**, desenvolvedor full stack capaz de entregar software de nível produtivo, escalável e com o mínimo consumo de CPU, memória e banda.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6600CC&height=120&section=footer"/>
+
+<!-- Smola esteve aqui-->
